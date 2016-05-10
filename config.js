@@ -21,7 +21,7 @@ module.exports = {
         stylesheets: {
             defaultExtension: 'scss',
             joinTo: {
-                'css/app.css':           /^app\/styles\/app\.scss$/
+                'css/app.css':  /^(app)/
             }
         }
     },
@@ -59,5 +59,5 @@ module.exports = {
         }
     },
     sourceMaps: false,
-    optimize:   false
+    optimize:   true
 };
