@@ -16,8 +16,8 @@ with minimal time spent on configuration and dependency management.
 
 ### Get started
 
-* `git clone git@github.com:tolyo/ionic-brunch-es6-seed.git` or `npm i ionic-brunch-es6-seed`
-* `cd ionic-brunch-es6-seed`
+* `git clone git@github.com:tolyo/ng2-brunch-es6-seed`
+* `cd ng2-brunch-es6-seed`
 * `npm install`
 
 ### Running the app during development
