@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "Starter template for Angular 2, Brunch and Babel",
   "scripts": {
+    "start": "brunch watch --server",
+    "prod": "brunch build --production"
   },
   "repository": "tolyo/ng2-brunch-es6-seed",
   "license": "ISC",
