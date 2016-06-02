@@ -7,6 +7,8 @@ and [Brunch](http://brunch.io).
 You can use it to quickly bootstrap your Angular 2 app on a modern language platform
 with minimal time spent on configuration and dependency management. 
 
+Angular 2 is currently in ***Beta*** so expect rough edges around the corner.
+
 ### Features:
 * ES6 by default
 * SASS/SCSS for styles

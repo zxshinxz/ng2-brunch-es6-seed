@@ -1,14 +1,12 @@
 import shim from 'core-js/shim';
 import reflectMetadata from 'reflect-metadata';
-import { Component } from 'angular2/core';
+import { enableProdMode } from 'angular2/core';
 import zone from 'zone.js';
 import rxjs from 'rxjs';
 import { bootstrap }  from 'angular2/platform/browser';
 
-@Component({
-  selector: 'my-app',
-  template: '<h1>My First Angular 2 App</h1>'
-})
-class AppComponent { }
+import AppComponent from 'AppComponent';
+
+if (window.location.hostname !== 'localhost') enableProdMode();
 
 bootstrap(AppComponent);
