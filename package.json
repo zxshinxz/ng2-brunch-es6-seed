@@ -1,6 +1,6 @@
 {
   "name": "ng2-brunch-es6-seed",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Starter template for Angular 2, Brunch and Babel",
   "scripts": {
     "start": "brunch watch --server",
