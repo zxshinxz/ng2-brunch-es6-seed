@@ -1,6 +1,6 @@
 # ng2-brunch-es6-seed
 
-Starter template for Angular 2, Brunch and Babel
+Superhero starter template for Angular 2, Brunch and Babel
 
 This is a starter project for a web application based on [Angular 2](http://angular.io/), [Babel](https://babeljs.io/) 
 and [Brunch](http://brunch.io). 

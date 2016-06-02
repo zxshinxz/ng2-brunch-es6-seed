@@ -1,3 +1,4 @@
+import shim from 'core-js/shim';
 import reflectMetadata from 'reflect-metadata';
 import { Component } from 'angular2/core';
 import zone from 'zone.js';
